@@ -1,1 +1,4 @@
-# init-next-with-typescript-and-styled-components
+# Configuração para ser utilizadas em projetos NextJS com Typescript e Styled Componets.
+
+
+
